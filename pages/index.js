@@ -36,11 +36,11 @@ export default function Home() {
   //const comunidades = []
   const pessoasFavoritas = [
     "lukeprog2021",
-    "lukeprog2021",
-    "lukeprog2021",
-    "lukeprog2021",
-    "lukeprog2021",
-    "lukeprog2021",
+    "TheOneAndOnlyBillGates",
+    "josecarloscanova",
+    "GOGOPOWERRANGERFYF",
+    "AgtLucas",
+    "jwasham",
   ];
 
   return (
